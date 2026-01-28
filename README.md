@@ -1,17 +1,16 @@
-# ⚡ Zord Theme
-
 <div align="center">
   <img src="./assets/zord-logo.png" alt="zord-theme-logo" width="160" />
+  <br />
+  <br />
   <div>
     <img alt="Top language" src="https://img.shields.io/github/languages/top/diogopereiradev/zord-theme?style=for-the-badge&cacheSeconds=60">
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/diogopereiradev/zord-theme?style=for-the-badge&cacheSeconds=60">
     <img alt="GitHub" src="https://img.shields.io/github/license/diogopereiradev/zord-theme?style=for-the-badge&cacheSeconds=60">
   </div>
+  <hr />
 </div>
 
 A **modern and minimalistic dark theme** for the **Zed editor**, focused on visual comfort, balanced contrast, and a color palette inspired by **Dracula**, with its own strong identity.
-
----
 
 ## Features
 
@@ -21,14 +20,10 @@ A **modern and minimalistic dark theme** for the **Zed editor**, focused on visu
 * Clean interface with minimal visual noise
 * Fully compatible with the official Zed theme schema
 
----
-
 ## Preview
 <p align="center">
-  <img src="./assets/theme-preview.png" alt="zord-theme-example" width="100%" />
+  <img src="./assets/theme-example.png" alt="zord-theme-example" width="100%" />
 </p>
-
----
 
 ## Installation
 
@@ -51,8 +46,6 @@ git clone https://github.com/diogopereiradev/zord-theme.git
 3. Restart the editor
 4. Select **Zord Theme – Dark** from the theme list
 
----
-
 ## Color Palette
 
 The theme is built on a dark bluish background with accent colors inspired by Dracula. These colors are applied consistently across:
@@ -61,8 +54,6 @@ The theme is built on a dark bluish background with accent colors inspired by Dr
 * Multiple cursors
 * Editor UI states (error, warning, success, info)
 * Panels and controls
-
----
 
 ## Syntax Highlighting
 
@@ -74,17 +65,6 @@ The theme is built on a dark bluish background with accent colors inspired by Dr
 * Italicized types and interfaces
 * Distinct styling for parameters and enums
 
-Optimized for languages such as:
-
-* JavaScript / TypeScript
-* Rust
-* Go
-* Python
-* JSON / TOML
-* And many others
-
----
-
 ## Development
 
 Contributions are welcome. Feel free to open issues or pull requests for:
@@ -93,13 +73,9 @@ Contributions are welcome. Feel free to open issues or pull requests for:
 * Contrast improvements
 * Syntax refinements
 
----
-
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
-
----
 
 ## Author
 
