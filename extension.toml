@@ -1,0 +1,23 @@
+id = "diogopereiradev.zordtheme"
+name = "Zord Theme"
+version = "1.0.0"
+schema_version = 1
+description = "A dark theme with a modern and minimalistic design. The code palette is based on dracula."
+repository = "https://github.com/diogopereiradev/zord-theme"
+authors = ["Diogo Pereira <contact@diogopereira.dev>"]
+themes = ["themes/zord-dark.json"]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
