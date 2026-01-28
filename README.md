@@ -3,8 +3,8 @@
 <div align="center">
   <img src="./assets/zord-logo.png" alt="zord-theme-logo" width="160" />
   <div>
-    <img alt="Top language" src="https://img.shields.io/github/languages/top/diogopereiradev/zord-theme?style=for-the-badge">
-    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/diogopereiradev/zord-theme">
+    <img alt="Top language" src="https://img.shields.io/github/languages/top/diogopereiradev/zord-theme?style=for-the-badge&cacheSeconds=60">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/diogopereiradev/zord-theme?style=for-the-badge&cacheSeconds=60">
     <img alt="GitHub" src="https://img.shields.io/github/license/diogopereiradev/zord-theme?style=for-the-badge&cacheSeconds=60">
   </div>
 </div>
