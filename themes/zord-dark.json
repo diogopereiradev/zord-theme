@@ -21,7 +21,7 @@
         "surface.background": "#171c20",
         "elevated_surface.background": "#1c2328",
 
-        "border": "#0f1316",
+        "border": "#1e1f28",
         "border.variant": "#0f1316",
         "border.disabled": "#0f1316",
         "border.focused": "#FFC799",
