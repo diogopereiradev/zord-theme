@@ -1,8 +1,8 @@
-id = "diogopereiradev.zordtheme"
+id = "zord-theme"
 name = "Zord Theme"
 version = "1.0.0"
 schema_version = 1
-description = "A modern and minimalistic dark theme for the Zed editor, focused on visual comfort, balanced contrast, and a color palette inspired by Dracula, with its own strong identity. "
+description = "A modern and minimalistic dark theme for the Zed editor, focused on visual comfort, balanced contrast, and a color palette inspired by Dracula, with its own strong identity."
 repository = "https://github.com/diogopereiradev/zord-theme"
 authors = ["Diogo Pereira <contact@diogopereira.dev>"]
 themes = ["themes/zord-dark.json"]
